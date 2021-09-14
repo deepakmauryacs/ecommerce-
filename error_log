@@ -1,0 +1,5 @@
+[30-Apr-2021 05:29:44 UTC] PHP Fatal error:  Cannot use [] for reading in /home/raamjaap/public_html/estore/application/views/Mydashboard/edit_coupon.php on line 20
+[04-May-2021 05:16:11 UTC] PHP Fatal error:  Cannot redeclare Term::update_term_condition() in /home/raamjaap/public_html/estore/application/controllers/Admin/Term.php on line 47
+[04-May-2021 18:11:48 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/raamjaap/public_html/estore/application/controllers/Admin/Product.php on line 252
+[13-May-2021 08:17:36 UTC] PHP Fatal error:  Cannot redeclare Offer::add_offer() in /home/raamjaap/public_html/estore/application/controllers/Admin/Offer.php on line 83
+[29-May-2021 15:15:16 UTC] PHP Fatal error:  Cannot redeclare Product::Qrcode() in /home/raamjaap/public_html/estore/application/controllers/Admin/Product.php on line 48

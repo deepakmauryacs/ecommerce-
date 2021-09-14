@@ -1,0 +1,2 @@
+vendor_id,product_name,category,sub_category,brand,batch_no,fssai_lic_no,ingredients,manufacture_date,expiry_date,weight,quantity,unit,min_qty,tags,price,discount_type,discount,gallery_image,thumbnail_image,meta_title,meta_keyword,meta_description,description,today,status
+1,Jaiket,1,1,Swarn,1,50,5,12/5/2020,12/5/2021,100grm/,10,10,1,testing,399,fix,0,Jaiket.jpeg,testing.jpeg,Testing,testing,testing,testing,0,1

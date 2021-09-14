@@ -1,0 +1,66 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-04 00:15:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 00:15:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 00:39:10 --> Severity: Notice --> Trying to get property 'banner' of non-object /home/swarnstore/public_html/application/views/blog_details.php 23
+ERROR - 2021-09-04 00:39:10 --> Severity: Notice --> Trying to get property 'blog_title' of non-object /home/swarnstore/public_html/application/views/blog_details.php 31
+ERROR - 2021-09-04 00:39:10 --> Severity: Notice --> Trying to get property 'description' of non-object /home/swarnstore/public_html/application/views/blog_details.php 33
+ERROR - 2021-09-04 01:12:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 01:37:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 02:46:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 03:31:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 03:31:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 03:31:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 03:31:52 --> 404 Page Not Found: Shophtml/index
+ERROR - 2021-09-04 03:51:44 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-09-04 03:51:44 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-09-04 03:51:45 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-09-04 03:51:45 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-09-04 03:51:45 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-09-04 03:51:46 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-09-04 03:51:46 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-09-04 03:51:46 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-09-04 03:51:47 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-09-04 03:51:47 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-09-04 03:51:47 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-09-04 03:51:48 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-09-04 03:51:48 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-09-04 03:51:49 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-09-04 03:51:49 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-09-04 03:51:49 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-09-04 03:51:50 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-09-04 04:12:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 04:40:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-09-04 05:01:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 05:08:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 05:13:25 --> 404 Page Not Found: Contact/index
+ERROR - 2021-09-04 05:13:27 --> 404 Page Not Found: Contact/index
+ERROR - 2021-09-04 05:13:30 --> 404 Page Not Found: Contact/index
+ERROR - 2021-09-04 05:13:32 --> 404 Page Not Found: Contact/index
+ERROR - 2021-09-04 06:08:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 07:11:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 07:51:41 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-09-04 08:10:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 08:48:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 09:19:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 10:05:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 10:46:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 10:46:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 11:27:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 12:05:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 13:06:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 14:08:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 14:53:52 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-09-04 14:56:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 16:51:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 17:09:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 17:57:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 18:59:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 19:16:05 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-09-04 19:31:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 20:11:47 --> 404 Page Not Found: User/shop.html
+ERROR - 2021-09-04 21:05:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 22:34:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 23:05:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 23:05:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-04 23:55:36 --> 404 Page Not Found: Robotstxt/index

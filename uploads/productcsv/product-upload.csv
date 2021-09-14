@@ -1,0 +1,2 @@
+vendor_id,ProductName,Category,SubCategory,Brand,Color,Unit,MinQty,Tags,Price,DiscountType,Discount,Barcode,GalleryImage,ThumbnailImage,MetaTitle,Metakeyword,MetaDescription,Description,Today,Status
+1,Jaiket,1,1,1,1,50,5,Jaiket,799,percentage,5,ECOM10001,25.jpg,25.jpg,Jaiket,Jaiket,Jaiket,Jaiket,1,1
